@@ -1,5 +1,12 @@
 # **Zotero/GoogleDrive PDF-Linker** #
 
+***NOTE:*** A more configurable cloud-based solution can be found at [ZoteroGoogleDrive-PDFLinker-Cloud](https://github.com/mtekman/ZoteroGoogleDrive-PDFLinker-Cloud/). 
+
+The below code still works however if you are not using the Zotero cloud.
+
+****
+
+
 Zotero has limited cloud storage for PDFs (300MB) which may leave some paper-hoarders keen on sharing their  collection with others, left with few options.
 
 However, GoogleDrive offers (15GB+) which is more than ample for storing PDFs.
